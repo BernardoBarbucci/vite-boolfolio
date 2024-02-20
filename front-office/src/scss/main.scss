@@ -1,20 +1,20 @@
 @use 'bootstrap/scss/bootstrap.scss';
-@use './partials/variables';
-@use './partials/mixins';
+@use './partials/variables' as *;
+@use './partials/mixins' as *;
 
-// // header
-// header {
-//     background-color: $background-color;
-// }
-
-
-// // main
-// main {
-//     background-color: $background-color;
-// }
+// header
+header {
+    background-color: $background-color;
+}
 
 
-// // footer
-// footer {
-//     background-color: $background-color;
-// }
+// main
+main {
+    background-color: $background-color;
+}
+
+
+// footer
+footer {
+    background-color: $background-color;
+}

@@ -17,9 +17,9 @@ export default {
 </script>
 
 <style lang="scss">
-@use '../scss/partials/variables';
+// @use '../scss/partials/variables';
 
-header {
-    background-color: $background-color;
-}
+// header {
+//     background-color: $background-color;
+// }
 </style>
